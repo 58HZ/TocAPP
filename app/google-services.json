@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987164912018",
+    "project_id": "tocapp-fa4bb",
+    "storage_bucket": "tocapp-fa4bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987164912018:android:48ae0d5b43a308d34cf94b",
+        "android_client_info": {
+          "package_name": "com.stomas.tocapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAjTHB_KD2zDcFj9XPukKp5vQixZR7Vfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
